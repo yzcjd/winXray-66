@@ -8,9 +8,9 @@
 1. [介绍](#介绍)   
 2. [说明](#说明)
 3. [下载](#下载)
-4. [公益订阅](#公益)  
-5. [免费订阅](#订阅)   
-6. [其它免费代理]（#免费）
+4. [老牌公益订阅](#公益)  
+5. [大型公益订阅](#订阅)   
+6. [其它免费订阅]（#免费）
 7. [视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
 
 .
@@ -35,15 +35,15 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 1. 官网(需代理)   www.winxray.com
 
-2. 下载页面   https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83)
+2. 下载地址 https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83
 
-3. 点击下载 =>（ [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) ）
+3. 一键下载 =>【 [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) 】
 
 4. 备用：[GitHub项目](https://github.com/TheMRLL/WinXray)
 
 解压即可直接使用(仅 5 MB，已自带 Xray-core），如需要其它 core，在软件配置页面下载，支持切换 V2Ray core、NaiveProxy Core、SSR Core。
     
-## 可复制下面几个订阅链接，在WinXray中点击「批量导入链接」，体验 WinXray 强大的兼容性。
+### 可复制下面几个订阅链接，在 WinXray 中点击「批量导入链接」，体验 WinXray 强大的兼容性。
 .
 
 ## [老牌公益订阅](#代理)
@@ -56,6 +56,8 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 ### 2. SSRSUB
 
+GitHub项目：[地址](https://github.com/ssrsub/ssr/tree/master)
+
 Clash: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 
 SS: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
@@ -66,13 +68,17 @@ Trojan: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 
 Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
-[github项目地址](https://github.com/ssrsub/ssr/tree/master)
+以上几个订阅的节点不重复。公开的订阅更新频率低、使用人数多。
 
-公开的订阅较慢，[注册SSRSUB公益机场](https://bit.ly/3BPeo5G)(需代理)，网速可达 10MB/s，每月 50GB 流量。点击链接将自动填充官方邀请码。
+[注册SSRSUB公益机场](https://bit.ly/3BPeo5G)(需代理)，网速可达 10MB/s，每月 50GB 流量。点击链接将自动填充官方邀请码。
+
+.
 
 ## 大型公益订阅
 
-### 1.Openit —— [GitHub项目](https://github.com/yu-steven/openit)、[最新官网](https://openit.daycat.space/)  
+### 1.Openit
+
+[GitHub项目](https://github.com/yu-steven/openit)、[最新官网](https://openit.daycat.space/)  
 
 Base64： https://openit.daycat.space/long
 
@@ -82,7 +88,11 @@ Clash： https://openit.daycat.space/clash
 
 Quanx： https://openit.daycat.space/qx
 
-### 2. v2cross.com —— [公益节点发布页面](https://v2cross.com/archives/1884)  
+### 2. v2cross.com
+
+每小时更新，[公益节点发布页面](https://v2cross.com/archives/1884)  
+
+.
 
 .
 
@@ -93,10 +103,13 @@ Quanx： https://openit.daycat.space/qx
 .
 
 **WinXray 有强大的兼容性，将自动识别并转换各种不兼容的配置为统一、规范的格式**，支持批量导入 vless、vmess、ss、trojan、trojan-go …… 等格式的分享链接，支持导入 v2ray、Shadowsocks、trojan 等通用订阅链接，兼容 base64、json …… 等不同格式的服务器配置，也可以导入 Clash proxy-provider 配置，甚至可以直接导入 GitHub 项目地址中的代理服务器。例如直接复制链接 [https://github.com/winXray/winXray/blob/master/sub/sample.json](./sub/sample.json) ，即可一键导入 WinXray。
-    
-对于大多数用户来说，根本不需要改配置，只需简单地复制链接 => 导入。
+
+对于大多数用户来说，无需更改配置，只需要复制 => 导入
+
 .
+
 ### 服务器配置
+
 .
 ![服务器配置](./screenshots/config.json.png)
 .
@@ -118,9 +131,9 @@ Quanx： https://openit.daycat.space/qx
 
 ### 电报代理配置
 
-使用电报必须通过代理，用 PAC 判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情，会使用没必要的连接判断、增加耗电。
+使用电报必然通过代理，用 PAC 策略判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情，会使用没必要的连接判断，增加延迟与耗电。
 
-在电报填上代理服务器，将 Socks 代理服务器的 IP 和端口填入电报代理（设置-高级-连接类型-使用自定义代理）。给Windows的电报设置一次后，无需做后续设置。更换 WinXray 代理服务器时，也不用更改代理。操作如下图：
+在电报填上代理服务器，将 Socks 代理服务器的 IP 和端口填入电报代理（设置-高级-连接类型-使用自定义代理）。给Windows的电报设置一次后，无需做后续设置。更换 WinXray 中的代理时，也不用更改代理。操作如下图：
 
 .
 ![端口配置](./screenshots/config.advanced.png)
