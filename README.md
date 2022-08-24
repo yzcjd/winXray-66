@@ -9,23 +9,23 @@
 
 # 目录
 
-1. [介绍](#介绍)   
-2. [说明](#说明)
-3. [下载](#下载)
-4. [老牌公益订阅](#公益)  
-5. [大型公益订阅](#订阅)   
-6. [其它免费订阅](#免费)
-7. [使用教程](#教程)
+## [一、介绍](#介绍)   
+## [二、说明](#说明)
+## [三、下载](#下载)
+## [四、老牌公益订阅](#公益)  
+## [五、大型公益订阅](#订阅)   
+## [六、其它免费订阅](#免费)
+## [七、使用教程](#教程)
 
-        [① 订阅链接导入](#订阅链接导入)
+[① 订阅链接导入](#订阅链接导入)
         
-        [② 服务器配置](#服务器配置)
+[② 服务器配置](#服务器配置)
         
-        [③ PAC配置](#PAC配置)
+[③ PAC配置](#PAC配置)
         
-        [④ 电报代理配置](#电报代理配置)
+[④ 电报代理配置](#电报代理配置)
         
-9. [视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
+## [八、视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
 
 .
 
@@ -81,7 +81,7 @@ Trojan: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 
 Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
-以上几个订阅的节点不重复。公开的订阅更新频率低、使用人数多。
+以上几个订阅内节点不相同，可同时导入。公开的订阅更新频率低、使用人数多。
 
 [注册SSRSUB公益机场](https://bit.ly/3BPeo5G)(需代理)，网速可达 10MB/s，每月 50GB 流量。点击链接将自动填充官方邀请码。
 
@@ -105,18 +105,24 @@ Quanx： https://openit.daycat.space/qx
 
 每小时更新，[公益节点发布页面](https://v2cross.com/archives/1884)  
 
+.
+
 # [更多免费订阅](#免费)
 
-## [免费节点订阅合集](https://t.me/yzcjd/345)
+.
 
-变动频繁，点击链接跳转查看
+## [我维护的订阅合集](https://t.me/yzcjd/345)
+
+.
+
+变动频繁，点击链接查看最新
 
 .
 
 .
 
 # [服务器导入](#教程)
-## 1. [订阅链接导入](#订阅链接导入)
+## [1. 订阅链接导入](#订阅链接导入)
 .
 ![winXray](./screenshots/winXray.png)
 .
@@ -127,7 +133,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### 2. [服务器配置](#服务器配置)
+### [2. 服务器配置](#服务器配置)
 
 .
 ![服务器配置](./screenshots/config.json.png)
@@ -139,7 +145,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### 三、[PAC配置](#PAC配置)
+### [3. PAC配置](#PAC配置)
 .
 ![PAC配置](./screenshots/pac.png)
 .
@@ -148,7 +154,7 @@ Quanx： https://openit.daycat.space/qx
 
 软件首次运行时会自动在当前目录查找 "./xray-core/xray.exe"，发行文件仅需要 "./winXray.exe"，可选带上 "./xray-core/" 目录（如果没有找到，会自动到v2ray官网下载，无代理时下载可能会很慢)。
 
-### 四、[电报代理配置](#电报代理配置)
+### [4. 电报代理配置](#电报代理配置)
 
 使用电报必然通过代理，用 PAC 策略判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情，会使用没必要的连接判断，增加延迟与耗电。
 
