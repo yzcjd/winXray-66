@@ -62,7 +62,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 解压即可直接使用(仅 5 MB，已自带 Xray-core），如需要其它 core，在软件配置页面下载，支持切换 V2Ray core、NaiveProxy Core、SSR Core。
     
-### 可复制下面几个订阅链接，在 WinXray 中点击「批量导入链接」，体验 WinXray 强大的兼容性。
+**可复制下面几个订阅链接，在 WinXray 中点击「批量导入链接」，体验 WinXray 强大的兼容性。**
 .
 
 # [老牌公益订阅](#1)
@@ -89,7 +89,7 @@ Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
 以上几个订阅内节点不相同，可同时导入。公开的订阅更新频率低、使用人数多。
 
-[注册SSRSUB公益机场](https://bit.ly/3BPeo5G)(需代理)，网速可达 10MB/s，每月 50GB 流量。点击链接将自动填充官方邀请码。
+[注册SSRSUB公益机场](https://bit.ly/3BPeo5G)(需代理)，网速可达 10MB/s，每月有 50GB 流量。点击链接将自动填充官方邀请码。
 
 .
 
@@ -117,9 +117,9 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-## [我维护的订阅合集](https://t.me/yzcjd/345)
+### [我维护的订阅合集](https://t.me/yzcjd/345)
 
-## [鸡场推荐](https://t.me/yzc020/7)
+### [鸡场推荐](https://t.me/yzc020/7)
 
 变动频繁，点击链接查看最新
 
