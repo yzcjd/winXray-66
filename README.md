@@ -1,6 +1,10 @@
 # WinXray
 ### Windows端代理客户端
-本项目全部代码Fork自原作者，仅调整该说明页面，维护可用免费代理,建议 fork 防失联。
+
+本项目全部代码Fork自原作者，仅调整该说明页面，维护可用免费代理。
+
+作者宣布不再更新，建议 fork 备份、保存公益订阅防失联。
+
 .
 
 # 目录
@@ -11,7 +15,12 @@
 4. [老牌公益订阅](#公益)  
 5. [大型公益订阅](#订阅)   
 6. [其它免费订阅]（#免费）
-7. [视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
+7. [使用教程]（#教程）
+        1. [订阅链接导入](#订阅链接导入)
+        2. [服务器配置](#服务器配置)
+        3. [PAC配置](#PAC配置)
+        4. [电报代理配置](#电报代理配置)
+9. [视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
 
 .
 
@@ -30,8 +39,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 这里需要解释下 WinXray 的测速功能。简单的测速不必要地消耗流量且无意义，还是会遇到 ① Ping通了，但TCP访问不了 ② TCP通了，但浏览器被阻断 ③ 使用下载测速，但是长时间连不上服务器。如果手中有很多服务器需要测试，普通的测速显然不够高效。经过本人长时间地对比，**当列表中有上百个代理服务器时，WinXray 总能最快地找到能正常使用且速度最快的线路，并且几乎不消耗流量**，免去我们繁琐地 多选排队测试 => 手动双击切换。如果你有顺滑观看 4K 视频的代理服务器，可以关闭“异常自动重连”。
 
-[.](#下载)
-# WinXray下载(#下载)
+# [WinXray下载](#下载)
 
 1. 官网(需代理)   www.winxray.com
 
@@ -46,7 +54,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 ### 可复制下面几个订阅链接，在 WinXray 中点击「批量导入链接」，体验 WinXray 强大的兼容性。
 .
 
-## [老牌公益订阅](#代理)
+# [老牌公益订阅](#代理)
 
 ### 1. freefq
 
@@ -74,7 +82,7 @@ Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
 .
 
-## 大型公益订阅
+# 大型公益订阅(#订阅)
 
 ### 1.Openit
 
@@ -92,12 +100,18 @@ Quanx： https://openit.daycat.space/qx
 
 每小时更新，[公益节点发布页面](https://v2cross.com/archives/1884)  
 
-.
+# [更多免费订阅](#免费)
+
+## [免费节点订阅合集](https://t.me/yzcjd/345)
+
+变动频繁，点击链接跳转查看
 
 .
 
-# 服务器导入
-## 一、订阅链接导入
+.
+
+# [服务器导入]（#教程）
+## 1. [订阅链接导入](#订阅链接导入)
 .
 ![winXray](./screenshots/winXray.png)
 .
@@ -108,7 +122,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### 服务器配置
+### 2. [服务器配置](#服务器配置)
 
 .
 ![服务器配置](./screenshots/config.json.png)
@@ -120,7 +134,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### PAC 配置
+### 三、[PAC配置](#订阅链接导入)
 .
 ![PAC配置](./screenshots/pac.png)
 .
@@ -129,7 +143,7 @@ Quanx： https://openit.daycat.space/qx
 
 软件首次运行时会自动在当前目录查找 "./xray-core/xray.exe"，发行文件仅需要 "./winXray.exe"，可选带上 "./xray-core/" 目录（如果没有找到，会自动到v2ray官网下载，无代理时下载可能会很慢)。
 
-### 电报代理配置
+### 四、[电报代理配置](#订阅链接导入)
 
 使用电报必然通过代理，用 PAC 策略判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情，会使用没必要的连接判断，增加延迟与耗电。
 
@@ -146,8 +160,6 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-## [免费节点订阅合集](https://t.me/yzcjd/345)
 
-变动频繁，点击链接跳转查看
 
 .
