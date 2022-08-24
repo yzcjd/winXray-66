@@ -119,7 +119,7 @@ Quanx： https://openit.daycat.space/qx
 
 ## [我维护的订阅合集](https://t.me/yzcjd/345)
 
-## [鸡场推荐]((https://t.me/yzc020/7))
+## [鸡场推荐](https://t.me/yzc020/7)
 
 变动频繁，点击链接查看最新
 
