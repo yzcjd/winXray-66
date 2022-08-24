@@ -1,4 +1,5 @@
-# WinXray #  ### Windows端代理客户端 ###
+# WinXray
+### Windows端代理客户端
 
 # 目录
 
@@ -11,7 +12,8 @@
 
 // 本项目全部代码Fork自原作者，仅调整该说明页面，维护可用免费代理。
 
-# [介绍](#介绍)
+[.](#介绍)
+# 介绍
 
 WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是一个简洁稳定的 Xray/V2Ray(vmess/vless/xtls)、Shadowsocks、Trojan 通用客户端（Windows系统），可自动检测并连接访问速度最快的代理服务器。服务器连接异常时可以自动更换代理服务器 - 再也不用担心服务器抽风了。WinXray 也提供一键安装 XRay(V2Ray、Shadowsocks、Trojan) 服务器工具。   
 
@@ -26,22 +28,24 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 这里需要解释下 WinXray 的测速功能。简单的测速不必要地消耗流量且无意义，还是会遇到 ① Ping通了，但TCP访问不了 ② TCP通了，但浏览器被阻断 ③ 使用下载测速，但是长时间连不上服务器。如果手中有很多服务器需要测试，普通的测速显然不够高效。经过本人长时间地对比，**当列表中有上百个代理服务器时，WinXray 总能最快地找到能正常使用且速度最快的线路，并且几乎不消耗流量**，免去我们繁琐地 多选排队测试 => 手动双击切换。如果你有顺滑观看 4K 视频的代理服务器，可以关闭“异常自动重连”。
 
-# [WinXray 下载](#下载)
+[.](#下载)
+# WinXray下载
 
-    官网（需代理）： www.winxray.com ；[下载页](https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83) ; 点击下载 =>（ [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) ）
+官网（需代理）： www.winxray.com ；[下载页](https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83) ; 点击下载 =>（ [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) ）
 备用：[GitHub项目](https://github.com/TheMRLL/WinXray)
 
-    解压即可直接使用(仅 5 MB，已自带 Xray-core），如需要其它 core，在软件配置页面下载，支持切换 V2Ray core、NaiveProxy Core、SSR Core。
+解压即可直接使用(仅 5 MB，已自带 Xray-core），如需要其它 core，在软件配置页面下载，支持切换 V2Ray core、NaiveProxy Core、SSR Core。
     
-    可复制下面的订阅链接，在WinXray中点击「批量导入链接」，体验 WinXray 强大的兼容性。
+可复制下面的订阅链接，在WinXray中点击「批量导入链接」，体验 WinXray 强大的兼容性。
 
-## [老牌公益订阅]（#代理）
+[.]（#代理）
+## 老牌公益订阅
 
 ### 一、freefq：
 
-订阅地址：https://cdn.jsdelivr.net/gh/freefq/free@master/v2
+订阅地址： https://cdn.jsdelivr.net/gh/freefq/free@master/v2
 
-[GitHub项目地址]https://github.com/freefq/free
+[GitHub项目地址]： https://github.com/freefq/free
 
 ### 二、SSRSUB
 
@@ -51,12 +55,12 @@ V2Ray: https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 Trojan: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
-// 公开的订阅较慢，[注册SSRSUB公益机场](https://bit.ly/3BPeo5G)（需代理），网速可达 10MB/S。点击链接将自动填充官方邀请码。
-[github项目地址](https://github.com/ssrsub/ssr/tree/master)
+公开的订阅较慢，[注册SSRSUB公益机场](https://bit.ly/3BPeo5G)（需代理），网速可达 10MB/S。点击链接将自动填充官方邀请码。
+[ github项目地址](https://github.com/ssrsub/ssr/tree/master)
 
 ## 大型公益订阅
 
-一、Openit   [GitHub项目](https://github.com/yu-steven/openit)   [最新官网](https://openit.daycat.space/)  
+一、Openit      [GitHub项目](https://github.com/yu-steven/openit)      [最新官网](https://openit.daycat.space/)  
 
 Base64： https://openit.daycat.space/long
 Clash： https://openit.daycat.space/clash
@@ -71,18 +75,18 @@ Quanx： https://openit.daycat.space/qx
 ## 订阅链接导入
 
 ![winXray](./screenshots/winXray.png)
+
+**WinXray 有强大的兼容性，将自动识别并转换各种不兼容的配置为统一、规范的格式**，支持批量导入 vless、vmess、ss、trojan、trojan-go …… 等格式的分享链接，支持导入 v2ray、Shadowsocks、trojan 等通用订阅链接，兼容 base64、json …… 等不同格式的服务器配置，也可以导入 Clash proxy-provider 配置，甚至可以直接导入 GitHub 项目地址中的代理服务器。例如直接复制链接 [https://github.com/winXray/winXray/blob/master/sub/sample.json](./sub/sample.json) ，即可一键导入 WinXray。
     
-    **WinXray 有强大的兼容性，将自动识别并转换各种不兼容的配置为统一、规范的格式**，支持批量导入 vless、vmess、ss、trojan、trojan-go …… 等格式的分享链接，支持导入 v2ray、Shadowsocks、trojan 等通用订阅链接，兼容 base64、json …… 等不同格式的服务器配置，也可以导入 Clash proxy-provider 配置，甚至可以直接导入 GitHub 项目地址中的代理服务器。例如直接复制链接 [https://github.com/winXray/winXray/blob/master/sub/sample.json](./sub/sample.json) ，即可一键导入 WinXray。
-    
-    对于大多数用户来说，根本不需要改配置，只需简单地复制链接 => 导入。
+对于大多数用户来说，根本不需要改配置，只需简单地复制链接 => 导入。
 
 ### 服务器配置
 
 ![服务器配置](./screenshots/config.json.png)
 
-    本人认为用很多对话框来配置服务器参数的设计是非常蠢的。**在 WinXray 的服务器配置页，点击 JSON 中任意字段，均会直接显示该字段的用法说明**。WinXray 已经将各种代理协议的配置简化为几个统一命名的 JSON 字段，（ **也可以作为一种标准、统一、通用的订阅响应格式，非常方便使用与分享** ），只要稍加学习就可以熟练地添加、修改各种代理协议的配置。
+本人认为用很多对话框来配置服务器参数的设计是非常蠢的。**在 WinXray 的服务器配置页，点击 JSON 中任意字段，均会直接显示该字段的用法说明**。WinXray 已经将各种代理协议的配置简化为几个统一命名的 JSON 字段，（ **也可以作为一种标准、统一、通用的订阅响应格式，非常方便使用与分享** ），只要稍加学习就可以熟练地添加、修改各种代理协议的配置。
 
-    可选在"[/xray-core/winXray-default-servers.json](./xray-core/winXray-default-servers.json)"文件中添加默认服务器配置（生成 EXE 后默认配置自动嵌入到 EXE 文件，可选删除该文件,也可以继续使用该文件覆盖 EXE 自带的默认服务器列表）。
+可选在"[/xray-core/winXray-default-servers.json](./xray-core/winXray-default-servers.json)"文件中添加默认服务器配置（生成 EXE 后默认配置自动嵌入到 EXE 文件，可选删除该文件,也可以继续使用该文件覆盖 EXE 自带的默认服务器列表）。
 
 ### PAC 配置
 
@@ -94,7 +98,9 @@ Quanx： https://openit.daycat.space/qx
 
 ### 电报代理配置
 
-    使用电报必须使用代理，用 PAC 判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情。而用电脑电报时，电脑一定开着，所以该代理不用做后续设置。
+    使用电报必须使用代理，用 PAC 判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情。
+    
+    用电脑电报时，电脑一定开着。因此设置一次后，不用做后续设置。更换代理服务器时，也不用更改代理。
     
     直接将代理服务器的 IP 和端口填入电报代理（设置-高级-连接类型-使用自定义代理），操作如下图：
 
@@ -103,11 +109,13 @@ Quanx： https://openit.daycat.space/qx
 
 <img src="./screenshots/telegram.gif" width="1031" alt="Telegram 端口配置">
 
+.
+.
 
 ## [免费节点订阅合集](https://t.me/yzcjd/345)（持续更新）
 
+.
 
-
-
+.
 
 .
