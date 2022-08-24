@@ -15,13 +15,13 @@
 
 ### [三、下载](#下载)
 
-### [四、老牌公益订阅](#公益)
+### [四、老牌公益订阅](#1)
 
-### [五、大型公益订阅](#订阅)
+### [五、大型公益订阅](#2)
 
-### [六、其它免费订阅](#免费)
+### [六、其它免费订阅](#3)
 
-### [七、使用教程](#教程)
+### [七、使用教程](#4)
 
 [① 订阅链接导入](#订阅链接导入)
 
@@ -65,7 +65,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 ### 可复制下面几个订阅链接，在 WinXray 中点击「批量导入链接」，体验 WinXray 强大的兼容性。
 .
 
-# [老牌公益订阅](#公益)
+# [老牌公益订阅](#1)
 
 ### 1. freefq
 
@@ -93,7 +93,7 @@ Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
 .
 
-# [大型公益订阅](#订阅)
+# [大型公益订阅](#2)
 
 ### 1.Openit
 
@@ -113,13 +113,13 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-# [更多免费订阅](#免费)
+# [更多免费订阅](#3)
 
 .
 
 ## [我维护的订阅合集](https://t.me/yzcjd/345)
 
-.
+## [鸡场推荐]((https://t.me/yzc020/7))
 
 变动频繁，点击链接查看最新
 
@@ -127,7 +127,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-# [服务器导入](#教程)
+# [服务器导入](#4)
 ## [1. 订阅链接导入](#订阅链接导入)
 .
 ![winXray](./screenshots/winXray.png)
