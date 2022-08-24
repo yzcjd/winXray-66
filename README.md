@@ -14,12 +14,17 @@
 3. [下载](#下载)
 4. [老牌公益订阅](#公益)  
 5. [大型公益订阅](#订阅)   
-6. [其它免费订阅]（#免费）
-7. [使用教程]（#教程）
-        1. [订阅链接导入](#订阅链接导入)
-        2. [服务器配置](#服务器配置)
-        3. [PAC配置](#PAC配置)
-        4. [电报代理配置](#电报代理配置)
+6. [其它免费订阅](#免费)
+7. [使用教程](#教程)
+
+        [① 订阅链接导入](#订阅链接导入)
+        
+        [② 服务器配置](#服务器配置)
+        
+        [③ PAC配置](#PAC配置)
+        
+        [④ 电报代理配置](#电报代理配置)
+        
 9. [视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
 
 .
@@ -45,7 +50,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 2. 下载地址 https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83
 
-3. 一键下载 =>【 [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) 】
+3. 一键下载 【 [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) 】
 
 4. 备用：[GitHub项目](https://github.com/TheMRLL/WinXray)
 
@@ -54,7 +59,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 ### 可复制下面几个订阅链接，在 WinXray 中点击「批量导入链接」，体验 WinXray 强大的兼容性。
 .
 
-# [老牌公益订阅](#代理)
+# [老牌公益订阅](#公益)
 
 ### 1. freefq
 
@@ -82,7 +87,7 @@ Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
 .
 
-# 大型公益订阅(#订阅)
+# [大型公益订阅](#订阅)
 
 ### 1.Openit
 
@@ -110,7 +115,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-# [服务器导入]（#教程）
+# [服务器导入](#教程)
 ## 1. [订阅链接导入](#订阅链接导入)
 .
 ![winXray](./screenshots/winXray.png)
@@ -134,7 +139,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### 三、[PAC配置](#订阅链接导入)
+### 三、[PAC配置](#PAC配置)
 .
 ![PAC配置](./screenshots/pac.png)
 .
@@ -143,7 +148,7 @@ Quanx： https://openit.daycat.space/qx
 
 软件首次运行时会自动在当前目录查找 "./xray-core/xray.exe"，发行文件仅需要 "./winXray.exe"，可选带上 "./xray-core/" 目录（如果没有找到，会自动到v2ray官网下载，无代理时下载可能会很慢)。
 
-### 四、[电报代理配置](#订阅链接导入)
+### 四、[电报代理配置](#电报代理配置)
 
 使用电报必然通过代理，用 PAC 策略判断每个 几K ~ 几十M 的文件是否需要走代理，是效率很低的事情，会使用没必要的连接判断，增加延迟与耗电。
 
