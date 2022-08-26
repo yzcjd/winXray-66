@@ -52,9 +52,9 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 # [WinXray下载](#下载)
 
-1. 官网(需代理)   www.winxray.com
+1. 官网(需代理)：     www.winxray.com
 
-2. 下载地址 https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83
+2. 下载地址： https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83
 
 3. 一键下载 【 [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) 】
 
@@ -71,7 +71,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 订阅地址： https://cdn.jsdelivr.net/gh/freefq/free@master/v2
 
-GitHub项目[地址]（https://github.com/freefq/free）
+GitHub项目[地址](https://github.com/freefq/free)
 
 ### 2. SSRSUB
 
