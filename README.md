@@ -108,8 +108,8 @@ Clash： https://openit.daycat.space/clash
 Quanx： https://openit.daycat.space/qx
 
 ### 2. v2cross.com
-
-每小时更新，[公益节点发布页面](https://v2cross.com/archives/1884)  
+[GitHub项目](https://github.com/Pawdroid/Free-servers/blob/main/README.md) 
+每小时更新，有安卓、ios端APP，[公益节点发布页面](https://v2cross.com/archives/1884)  
 
 .
 
@@ -117,9 +117,9 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### [我维护的订阅合集](https://t.me/yzcjd/345)
+### [我维护的免费订阅合集](https://t.me/yzcjd/345)
 
-### [鸡场推荐](https://t.me/yzc020/7)
+### [各价位高性价比鸡场](https://t.me/yzc020/7)
 
 变动频繁，点击链接查看最新
 
