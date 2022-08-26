@@ -71,7 +71,7 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 订阅地址： https://cdn.jsdelivr.net/gh/freefq/free@master/v2
 
-[GitHub项目地址]： https://github.com/freefq/free
+GitHub项目[地址]（https://github.com/freefq/free）
 
 ### 2. SSRSUB
 
