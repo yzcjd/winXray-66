@@ -31,7 +31,7 @@
 
 [④ 电报代理配置](#电报代理配置)
 
-### [八、视频教程（YouTube）](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
+### [八、视频教程(YouTube)](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D) 
 
 .
 
@@ -69,9 +69,9 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 ### 1. freefq
 
-订阅地址： https://cdn.jsdelivr.net/gh/freefq/free@master/v2
+GitHub项目: [地址](https://github.com/freefq/free)
 
-GitHub项目[地址](https://github.com/freefq/free)
+订阅地址： https://cdn.jsdelivr.net/gh/freefq/free@master/v2
 
 ### 2. SSRSUB
 
