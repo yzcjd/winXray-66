@@ -108,8 +108,12 @@ Clash： https://openit.daycat.space/clash
 Quanx： https://openit.daycat.space/qx
 
 ### 2. v2cross.com
+
 [GitHub项目](https://github.com/Pawdroid/Free-servers/blob/main/README.md) 
-每小时更新，有安卓、ios端APP，[公益节点发布页面](https://v2cross.com/archives/1884)  
+
+每小时更新，有安卓、ios端APP
+
+[公益节点发布页面](https://v2cross.com/archives/1884)  
 
 .
 
