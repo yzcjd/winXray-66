@@ -52,13 +52,11 @@ WinXray[:loud_sound:](http://dict.youdao.com/dictvoice?audio=winxray&type=2) 是
 
 # [WinXray下载](#下载)
 
-1. 官网(需代理)：     www.winxray.com
+1. 项目地址： https://github.com/Chinaboy5216/winXray-4/
 
-2. 下载地址： https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83
+2. 下载地址： https://github.com/Chinaboy5216/winXray-4/raw/master/release/winXray.7z
 
 3. 一键下载 【 [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) 】
-
-4. 备用：[GitHub项目](https://github.com/TheMRLL/WinXray)
 
 解压即可直接使用(仅 5 MB，已自带 Xray-core），如需要其它 core，在软件配置页面下载，支持切换 V2Ray core、NaiveProxy Core、SSR Core。
     
@@ -87,7 +85,7 @@ Trojan: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
 
 Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
-以上几个订阅内节点不相同，可同时导入。公开的订阅更新频率低、使用人数多。
+以上几个订阅内节点不完全相同，可同时导入。公开的订阅更新频率低、使用人数多。
 
 [注册SSRSUB公益机场](https://bit.ly/3BPeo5G)(需代理)，网速可达 10MB/s，每月有 50GB 流量。点击链接将自动填充官方邀请码。
 
@@ -121,11 +119,13 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### [我维护的免费订阅合集](https://t.me/yzcjd/345)
+### [我维护的免费订阅合集 1](https://t.me/yzcjd/345)
+
+### [我维护的免费订阅合集 2](https://t.me/yzcjd/641)
 
 ### [各价位高性价比鸡场](https://t.me/yzc020/7)
 
-变动频繁，点击链接查看最新
+变动频繁，跳转电报查看最新
 
 .
 
