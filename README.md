@@ -93,19 +93,7 @@ Surge: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
 # [大型公益订阅](#2)
 
-### 1.Openit
-
-[GitHub项目](https://github.com/yu-steven/openit)、[最新官网](https://openit.daycat.space/)  
-
-Base64： https://openit.daycat.space/long
-
-Clash： https://openit.daycat.space/clash
-
-小火箭： https://openit.daycat.space/https
-
-Quanx： https://openit.daycat.space/qx
-
-### 2. v2cross.com
+### v2cross.com
 
 [GitHub项目](https://github.com/Pawdroid/Free-servers/blob/main/README.md) 
 
@@ -119,9 +107,7 @@ Quanx： https://openit.daycat.space/qx
 
 .
 
-### [我维护的免费订阅合集 1](https://t.me/yzcjd/345)
-
-### [我维护的免费订阅合集 2](https://t.me/yzcjd/641)
+### [我维护的免费订阅合集](https://t.me/yzcjd/443)
 
 ### [各价位高性价比鸡场](https://t.me/yzc020/7)
 
